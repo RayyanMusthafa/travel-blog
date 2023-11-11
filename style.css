@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Kanit:ital@1&family=Merriweather:ital,wght@1,700&family=Mooli&family=Open+Sans:wght@500&family=Oswald&family=Teko:wght@700&display=swap');
+*{
+    font-family: 'Mooli', sans-serif;   
+}
+.nav-item{
+    margin: 10px;
+}
+/* .main{
+    position: relative;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    width: 100%;
+    height: 600px;
+}
+.centered{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+} */
+.ngeo{
+    margin-top: 30px;
+    margin-left: 280px;
+}
+.txblg h1{
+    font-family: 'Dela Gothic One', cursive;
+}
+.trp{
+    display: flex;
+}
+
+.secimg1 img{
+    margin: 50px;
+}
+.secimg1 h3{
+    text-align: center;
+    color: orangered;
+}
+.secimg1 h3:hover{
+    color: black;
+}
+
+.secimg2{
+     margin: 50px;
+}
+.secimg2 h3{
+    margin-top: 50px;
+    text-align: center;
+    color: orangered;
+}
+.secimg2 h3:hover{
+    color: black;
+}
+
+.secimg3{
+    margin: 50px;
+}
+
+.secimg3 h3{
+    margin-top: 50px;
+    text-align: center;
+    color: orangered;
+}
+.secimg3 h3:hover{
+    color: black;
+}
+
+
+.about{
+    border: 1px solid black;
+    padding: 20px;
+}
+.pic{
+    display: flex;
+
+}
+.intro h4{
+    margin-left: 40px;
+    margin-top: 50px;
+}
+.intro p{
+    text-align: justify;
+    margin: 50px;
+    margin-bottom: 20px;
+}
+.pic img{
+    width: 300px;
+    border-radius: 50px;
+    margin-left: 10px;
+}
+.btn{
+    margin: 5px;
+}
+.new4{
+    border: 1px solid rgb(0, 0, 0);
+}
+.rfv{
+    display: flex;
+}
+.cam{
+    width: 100%;
+    height: 500px;
+    align-items: center;
+    display: flex;
+}
+.navrab{
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
